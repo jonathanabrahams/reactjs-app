@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "private": true,
   "dependencies": {
+    "jonathanabrahams-ui-kit": "^0.0.3",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts-ts-scss": "2.8.3"
