@@ -1,9 +1,9 @@
 {
   "name": "web",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": true,
   "dependencies": {
-    "jonathanabrahams-ui-kit": "^0.0.3",
+    "jonathanabrahams-ui-kit": "^0.0.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts-ts-scss": "2.8.3"
