@@ -1,7 +1,7 @@
 {
-  "name": "jonathanabrahams-ui-kit",
-  "version": "0.0.5",
-  "description": "",
+  "name": "@jon-abr/reactjs-ui-kit",
+  "version": "0.0.0",
+  "description": "ReactJs UI-Kit",
   "main": "build/dist/index.js",
   "types": "build/dist/index.d.ts",
   "scripts": {
@@ -9,9 +9,8 @@
     "build": "tsc",
     "prepare": "yarn build"
   },
-  "author": "",
+  "author": "Jonathan Abrahams",
   "license": "ISC",
-  "gitHead": "aa4156ff95119a1e91074eb22f2dd8e1f879b0d1",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2"
