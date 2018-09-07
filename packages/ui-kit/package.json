@@ -1,6 +1,6 @@
 {
   "name": "jonathanabrahams-ui-kit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "main": "build/dist/index.js",
   "types": "build/dist/index.d.ts",
