@@ -2,16 +2,18 @@
   "name": "jonathanabrahams-ui-kit",
   "version": "0.0.4",
   "description": "",
-  "main": "index.js",
+  "main": "build/dist/index.js",
+  "types": "build/dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepare": "yarn build"
   },
   "author": "",
   "license": "ISC",
   "gitHead": "aa4156ff95119a1e91074eb22f2dd8e1f879b0d1",
   "dependencies": {
     "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-scripts-ts-scss": "^2.8.3"
+    "react-dom": "^16.4.2"
   }
 }

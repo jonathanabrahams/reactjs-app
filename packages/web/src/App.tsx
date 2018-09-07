@@ -1,5 +1,6 @@
 import * as React from 'react';
 import './App.css';
+import { Name } from 'jonathanabrahams-ui-kit';
 
 const logo = require('./logo.svg');
 
@@ -13,6 +14,7 @@ class App extends React.Component {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
+          My Name is {Name}
         </p>
       </div>
     );
