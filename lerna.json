@@ -1,11 +1,13 @@
 {
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "packages/ui-kit"
+      ]
+    }
+  },
   "packages": [
     "packages/*"
   ],
-  "publishConfig": {
-    "ignore": [
-      "packages/ui-kit"
-    ]
-  },
-  "version": "0.0.7"
+  "version": "0.0.8"
 }
