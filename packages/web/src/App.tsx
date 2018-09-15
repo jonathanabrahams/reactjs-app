@@ -14,7 +14,7 @@ class App extends React.Component {
         </div>
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
-          My Name is <Name>Jonathan Abrahams</Name>
+          My Name is <Name salutation="Mr" firstname="Jonathan" lastname="Abrahams" />
         </p>
       </div>
     );
